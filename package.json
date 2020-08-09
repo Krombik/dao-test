@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/daoua/front-end-developer-test-task#readme",
   "dependencies": {
-    "styled-components": "^5.1.1"
+    "styled-components": "^5.1.1",
+    "@material-ui/core": "4.10.1"
   },
   "devDependencies": {
     "@babel/core": "^7.11.1",
@@ -28,6 +29,9 @@
     "@storybook/addon-links": "^5.3.19",
     "@storybook/addons": "^5.3.19",
     "@storybook/react": "^5.3.19",
+    "@svgr/webpack": "^5.4.0",
+    "@types/react": "16.9.43",
+    "@types/styled-components": "5.1.0",
     "babel-loader": "^8.1.0",
     "ts-loader": "^8.0.2",
     "tslint": "^6.1.3",
